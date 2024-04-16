@@ -1,6 +1,6 @@
 {
   "name": "fifel",
-  "version": "1.0.0-alpha.4",
+  "version": "1.0.0-alpha.5",
   "description": "A functional representation of if-else statement",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -18,7 +18,7 @@
     "else"
   ],
   "author": "o-lysenko",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/a-lysenko/fifel/issues"
   },
